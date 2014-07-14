@@ -39,4 +39,7 @@ git merge some-feature;
 git push; 
 git branch -d some-feature
 ``
+<<<<<<< HEAD
 NO MORE TESTS
+=======
+>>>>>>> origin/master
