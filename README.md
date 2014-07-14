@@ -39,7 +39,4 @@ git merge some-feature;
 git push; 
 git branch -d some-feature
 ``
-
-
-
-TES%TING TESTING !"£
+NO MORE TESTS
