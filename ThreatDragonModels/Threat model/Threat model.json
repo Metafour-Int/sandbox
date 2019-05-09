@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat model",
+    "owner": "ZAhid",
+    "description": "A test program"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Zahid"
+  }
+}
